@@ -1,4 +1,4 @@
-https://github.com/sisyphean0labor-web/posmotri_v_okno
+https://github.com/sisyphean0labor-web/posmotri-v-okno-ad
 
 # Яндекс Практикум, практическая работа "Посмотри В Окно"
 
